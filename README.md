@@ -2,7 +2,7 @@
 
 A list of companies that have been known to offer unlimited paid time off (PTO) policies.
 
-## Technology Companies
+## Technology
 
 - [Netflix](https://netflix.com)
 - [LinkedIn](https://linkedin.com)
@@ -63,6 +63,31 @@ A list of companies that have been known to offer unlimited paid time off (PTO) 
 - [Adobe](https://www.adobe.com)
 - [Salesforce](https://www.salesforce.com)
 - [IBM](https://www.ibm.com)
+
+## Finance
+
+- [Moov Financial](https://moov.io)
+- [Goldman Sachs](https://www.goldmansachs.com/)
+- [JPMorgan Chase & Co.](https://www.jpmorganchase.com/)
+- [Bank of America](https://www.bankofamerica.com/)
+- [Morgan Stanley](https://www.morganstanley.com/)
+- [Citigroup](https://www.citigroup.com/)
+- [Wells Fargo](https://www.wellsfargo.com/)
+- [BlackRock](https://www.blackrock.com/)
+- [Charles Schwab](https://www.schwab.com/)
+- [Fidelity Investments](https://www.fidelity.com/)
+- [American Express](https://www.americanexpress.com/)
+- [UBS](https://www.ubs.com/)
+- [Barclays](https://www.barclays.com/)
+- [HSBC](https://www.hsbc.com/)
+- [Standard Chartered](https://www.sc.com/)
+- [State Street Corporation](https://www.statestreet.com/)
+- [BB&T](https://www.bbt.com/)
+- [TD Ameritrade](https://www.tdameritrade.com/)
+- [PNC Financial Services](https://www.pnc.com/)
+- [Capital One](https://www.capitalone.com/)
+- [SunTrust Banks](https://www.suntrust.com/)
+- [Société Générale](https://www.societegenerale.com/)
 
 ## Disclaimer
 
