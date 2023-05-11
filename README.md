@@ -13,7 +13,7 @@ A list of companies that have been known to offer unlimited paid time off (PTO) 
 - [General Electric (GE)](https://www.ge.com)
 - [Virgin Group](https://www.virgin.com)
 - [The Motley Fool](https://www.fool.com)
-- [Grubhub](https://www.grubhub.com)a
+- [Grubhub](https://www.grubhub.com)
 - [Groupon](https://www.groupon.com)
 - [Glassdoor](https://www.glassdoor.com)
 - [Weebly](https://www.weebly.com)
