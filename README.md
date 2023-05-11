@@ -2,10 +2,14 @@
 
 A list of companies that have been known to offer unlimited paid time off (PTO) policies.
 
-## Contents
+## Table of Contents
 
-- [Technology](#technology)
-- [Finance](#finance)
+- [Awesome PTO](#awesome-pto)
+  - [Table of Contents](#table-of-contents)
+  - [Technology](#technology)
+  - [Finance](#finance)
+  - [Disclaimer](#disclaimer)
+  - [Contributing](#contributing)
 
 ## Technology
 
