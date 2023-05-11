@@ -2,6 +2,11 @@
 
 A list of companies that have been known to offer unlimited paid time off (PTO) policies.
 
+## Contents
+
+- [Technology](#technology)
+- [Finance](#finance)
+
 ## Technology
 
 - [Netflix](https://netflix.com)
